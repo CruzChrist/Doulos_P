@@ -1,0 +1,39 @@
+div {
+    background: rgb(0, 0, 0);
+height: 180px;
+ text-align: center;
+ padding: 100px;
+display:inline-block;
+display: block;
+}
+
+video {
+    margin-top: 100px;
+    text-align: center;
+   margin-left:30px;
+}
+.redes{
+    height: 100px;
+    background-color: var(--secundario);
+    padding: 30px;
+
+}
+.redes h2{
+    font-family: gabriola;
+    text-align: center;
+    font-weight: bold ;
+ font-size: 100px;
+ 
+}
+.sociales{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 40px;
+}
+.sociales li{
+    display: inline-block; /* queden horizontalmente los logos */
+}
+.sociales a{
+    padding: 10px;}
+
+
